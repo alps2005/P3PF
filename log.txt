@@ -1,0 +1,2 @@
+2025-08-17 03:24:36 - Incorrect decimal value: '' for column `ecotec`.`autos`.`precio` at row 1
+2025-08-17 03:24:49 - Incorrect decimal value: '' for column `ecotec`.`autos`.`precio` at row 1
